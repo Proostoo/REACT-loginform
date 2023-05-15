@@ -1,0 +1,18 @@
+/* * {
+  border: 1px red dotted;
+} */
+.App {
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  min-height: 100vh;
+}
+.row {
+  height: calc(100vh - 56px);
+}
+form {
+  background-color: white;
+  padding: 50px !important;
+  border-radius: 20px;
+  -webkit-box-shadow: 0px 0px 20px -5px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 0px 0px 20px -5px rgba(66, 68, 90, 1);
+  box-shadow: 0px 0px 20px -5px rgba(66, 68, 90, 1);
+}
